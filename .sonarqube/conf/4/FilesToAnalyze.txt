@@ -1,0 +1,13 @@
+﻿E:\SisVen_SI-master\Infra.DataAccess\Properties\AssemblyInfo.cs
+E:\SisVen_SI-master\Infra.DataAccess\Repository\ClienteRepository.cs
+E:\SisVen_SI-master\Infra.DataAccess\Repository\ConectionSql.cs
+E:\SisVen_SI-master\Infra.DataAccess\Repository\DetalleFacturaRepository.cs
+E:\SisVen_SI-master\Infra.DataAccess\Repository\DetallePedidoRepository.cs
+E:\SisVen_SI-master\Infra.DataAccess\Repository\EmpleadoRepository.cs
+E:\SisVen_SI-master\Infra.DataAccess\Repository\EstadoPedidoRepository.cs
+E:\SisVen_SI-master\Infra.DataAccess\Repository\FacturaRepository.cs
+E:\SisVen_SI-master\Infra.DataAccess\Repository\LimiteVentaRepository.cs
+E:\SisVen_SI-master\Infra.DataAccess\Repository\MaterialRepository.cs
+E:\SisVen_SI-master\Infra.DataAccess\Repository\PedidoRepository.cs
+E:\SisVen_SI-master\Infra.DataAccess\Repository\UsuarioRepository.cs
+E:\SisVen_SI-master\Infra.DataAccess\Repository\App.config

@@ -1,0 +1,1 @@
+﻿E:\SisVen_SI-master\Aplication.Dt\Properties\AssemblyInfo.cs

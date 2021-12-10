@@ -1,0 +1,2 @@
+﻿E:\SisVen_SI-master\infra.EmailService\Class1.cs
+E:\SisVen_SI-master\infra.EmailService\Properties\AssemblyInfo.cs

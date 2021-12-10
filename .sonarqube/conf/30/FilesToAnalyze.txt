@@ -1,0 +1,11 @@
+﻿E:\SisVen_SI-master\Aplication\ClienteService.cs
+E:\SisVen_SI-master\Aplication\DetalleFacturaService.cs
+E:\SisVen_SI-master\Aplication\DetallePedidoService.cs
+E:\SisVen_SI-master\Aplication\EmpleadoService.cs
+E:\SisVen_SI-master\Aplication\EstadoPedidoService.cs
+E:\SisVen_SI-master\Aplication\FacturaService.cs
+E:\SisVen_SI-master\Aplication\LimiteVentaService.cs
+E:\SisVen_SI-master\Aplication\MaterialService.cs
+E:\SisVen_SI-master\Aplication\PedidoService.cs
+E:\SisVen_SI-master\Aplication\Properties\AssemblyInfo.cs
+E:\SisVen_SI-master\Aplication\UsuarioService.cs
